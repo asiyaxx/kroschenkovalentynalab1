@@ -1,1 +1,1 @@
-# progect.asi
+# kroschenko valentina lab1
