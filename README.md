@@ -1,2 +1,2 @@
-# kroschenko valentina lab1
+# kroschenko valentina lab
 second branch
